@@ -1,3 +1,3 @@
-# MySQL JDBC Driver for eXist-db
+# MariaDB JDBC Driver for eXist-db
 
-Loadable JDBC Driver for MySQL within eXist-db.
+Loadable JDBC Driver for MariaDB within eXist-db.
