@@ -61,7 +61,7 @@
         <dependencySet>
             <groupId>org.mariadb.jdbc</groupId>
             <artifactId>mariadb-java-client</artifactId>
-            <version>2.5.3</version>
+            <version>${project.version}</version>
         </dependencySet>
     </dependencySets>
 
